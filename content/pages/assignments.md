@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
 title: Assignments
+type: CourseSection
 uid: ff1bf6ae-fb36-a8ac-68e6-8d87816d9547
 ---
 
