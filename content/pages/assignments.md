@@ -1,7 +1,7 @@
 ---
 content_type: page
-learning_resource_types:
-- Assignments
+learning_resource_types: []
+ocw_type: ''
 title: Assignments
 uid: ff1bf6ae-fb36-a8ac-68e6-8d87816d9547
 ---

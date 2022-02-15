@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: ''
 parent_title: Session 9
 parent_type: CourseSection
 resourcetype: Image

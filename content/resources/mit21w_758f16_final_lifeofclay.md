@@ -5,6 +5,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21w-758-genr
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document

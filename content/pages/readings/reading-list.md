@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types:
 - Readings
+ocw_type: ''
 parent_title: Readings
 parent_type: CourseSection
 parent_uid: cc3e769c-c951-7945-d81c-8ffd8494c81f
