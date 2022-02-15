@@ -12,6 +12,5 @@ parent_title: Session 9
 parent_type: CourseSection
 resourcetype: Image
 title: 21W-758f16castle.jpg
-type: OCWImage
 uid: bf32ec5b-d2f4-909f-212d-c60bfb5ff5fb
 ---

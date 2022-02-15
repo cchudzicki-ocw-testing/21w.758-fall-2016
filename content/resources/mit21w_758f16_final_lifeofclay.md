@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT21W_758F16_Final_LifeofClay
-type: OCWFile
 uid: f7033944-6cf4-4ec5-3239-c026f129bc3a
 ---

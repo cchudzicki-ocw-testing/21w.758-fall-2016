@@ -6,7 +6,6 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: 2bce6e8a-2a58-6ace-9ceb-5702239955bc
 title: Session 10
-type: CourseSection
 uid: 7b6aebdd-4722-9275-5c0f-4de9b63f7a33
 ---
 

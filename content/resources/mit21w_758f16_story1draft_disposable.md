@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT21W_758F16_Story1Draft_Disposable
-type: OCWFile
 uid: 5c648480-4ec9-6c40-2794-1b475be2e340
 ---
