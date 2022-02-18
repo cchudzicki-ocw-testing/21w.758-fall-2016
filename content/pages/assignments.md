@@ -37,9 +37,9 @@ Annika Rollock
 {{< tdopen >}}
 
 
-[Story 1 (Draft) (PDF)]({{< baseurl >}}/resources/mit21w_758f16_story1draft_disposable)
+{{< resource_link 5c648480-4ec9-6c40-2794-1b475be2e340 "Story 1 (Draft) (PDF)" >}}
 
-[Story 1 (Final) (PDF)]({{< baseurl >}}/resources/mit21w_758f16_story1final_disposable)
+{{< resource_link 534e8ef3-2806-8f23-5e79-dd9f0c7af316 "Story 1 (Final) (PDF)" >}}
 
 
 {{< tdclose >}}
@@ -52,9 +52,9 @@ M. Abrams
 {{< tdopen >}}
 
 
-[The Life of Clay (Draft) (PDF)]({{< baseurl >}}/resources/mit21w_758f16_draft_lifeofclay)
+{{< resource_link 0e235bf6-c620-651d-3712-7d53f6eb12ff "The Life of Clay (Draft) (PDF)" >}}
 
-[The Life of Clay (Final) (PDF)]({{< baseurl >}}/resources/mit21w_758f16_final_lifeofclay)
+{{< resource_link f7033944-6cf4-4ec5-3239-c026f129bc3a "The Life of Clay (Final) (PDF)" >}}
 
 
 {{< tdclose >}}

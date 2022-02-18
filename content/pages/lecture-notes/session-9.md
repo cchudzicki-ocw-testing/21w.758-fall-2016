@@ -10,7 +10,7 @@ title: Session 9
 uid: 2122ce2a-8501-bb7e-41d1-16bdfa39cac9
 ---
 
-![A graphic of a curved, stone bridge with a stream running below it; a castle is in the background.]({{< resource_file bf32ec5b-d2f4-909f-212d-c60bfb5ff5fb >}})  
+{{< resource bf32ec5b-d2f4-909f-212d-c60bfb5ff5fb >}}  
 
 This image is in the public domain.
 
