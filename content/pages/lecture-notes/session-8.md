@@ -76,7 +76,7 @@ Grimdark - medieval world
 
 Science Fantasy worlds
 
-*   McCaffery, Anne. _Dragonflight (Dragonriders of Pern - Volume 1)_. Ballantine Books, 1986. ISBN: 9780345335463. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Suggested reading orders of books and stories in Anne McCaffery's Pern series (PDF)](http://pernhome.com/aim/2006-Pern-Reading-Order.pdf))
+*   McCaffery, Anne. _Dragonflight (Dragonriders of Pern - Volume 1)_. Ballantine Books, 1986. ISBN: 9780345335463. ([Suggested reading orders of books and stories in Anne McCaffery's Pern series (PDF)](http://pernhome.com/aim/2006-Pern-Reading-Order.pdf))
     
 *   Bradley, Marion Zimmer. _Darkover Landfall_. RH Canada UK Distribution, 1987. ISBN: 9780099154105. ([Reading order of books in Marion Zimmer Bradley's Darkover series](https://www.librarything.com/series/Darkover%3A+Chronological+order))
     
