@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a list of the course readings by topic and schedule.
 learning_resource_types:
 - Readings
 ocw_type: ''

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains lecture notes for Session 1
 learning_resource_types:
 - Lecture Notes
 ocw_type: ''
